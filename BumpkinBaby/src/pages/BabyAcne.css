@@ -1,0 +1,312 @@
+.line-div4,
+.rectangle-div19 {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.line-div4 {
+  top: 108px;
+  left: -0.5px;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.rectangle-div19 {
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 69px;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 34.78%;
+  width: 6.67%;
+  top: 23.19%;
+  right: 63.33%;
+  bottom: 42.03%;
+  left: 30%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home-div4 {
+  position: absolute;
+  top: 19px;
+  left: 144px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.home-nav-button4,
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+  left: 0;
+  width: 360px;
+  height: 69px;
+}
+.home-nav-button4 {
+  background-color: transparent;
+  top: 109px;
+}
+.rectangle-button {
+  background-color: var(--white);
+  top: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.scan-w-icon4 {
+  position: absolute;
+  height: 27.83%;
+  width: 6.67%;
+  top: 33.33%;
+  right: 70.28%;
+  bottom: 38.84%;
+  left: 23.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.scanner-div4 {
+  position: absolute;
+  top: 19px;
+  left: 116px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.scanner-nav-button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 360px;
+  width: 360px;
+  height: 69px;
+}
+.chat-b-icon3 {
+  position: absolute;
+  top: 16px;
+  left: 83px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.chat-room-b3 {
+  position: absolute;
+  top: 19px;
+  left: 114px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.33px;
+  display: inline-block;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+}
+.chatroom-nav-button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 720px;
+  width: 360px;
+  height: 69px;
+}
+.profile-w-icon3 {
+  position: absolute;
+  height: 34.78%;
+  width: 6.67%;
+  top: 30.43%;
+  right: 63.61%;
+  bottom: 34.78%;
+  left: 29.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.profile-div4 {
+  position: absolute;
+  top: 19px;
+  left: 142px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.profile-nav-button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 1080px;
+  width: 360px;
+  height: 69px;
+}
+.acne2-img-1-icon,
+.acne3-img-1-icon,
+.baby-acne-1-icon {
+  position: absolute;
+  height: 100%;
+  width: 31.95%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 68.05%;
+  border-radius: var(--br-md);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.acne3-img-1-icon,
+.baby-acne-1-icon {
+  right: 34.02%;
+  left: 34.02%;
+}
+.acne3-img-1-icon {
+  height: 99.81%;
+  right: 68.05%;
+  bottom: 0.19%;
+  left: 0;
+}
+.acne-carousel-div1,
+.component-1-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2751px;
+  height: 302px;
+}
+.acne-carousel-div1 {
+  top: 265px;
+  left: 280px;
+  width: 879px;
+  overflow-x: auto;
+}
+.baby-acne-div1 {
+  position: absolute;
+  top: 208px;
+  left: 608px;
+  line-height: 25px;
+  display: inline-block;
+  width: 224px;
+  height: 27px;
+}
+.the-cause-is-unknown-it-typic {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.if-youre-concerned-that-your {
+  margin: 0;
+}
+.cause-the-cause-is-unknown-it {
+  position: absolute;
+  top: 575px;
+  left: 144px;
+  font-size: var(--font-size-3xl);
+  line-height: 25px;
+  display: inline-block;
+  width: 1242px;
+  height: 391px;
+  font-family: var(--open-sans-13-sp-body-3);
+}
+.rectangle-div22 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--cards-2-main);
+  border: 2px solid var(--cards-2-main);
+  box-sizing: border-box;
+}
+.log-in-div3 {
+  position: absolute;
+  height: 30.61%;
+  width: 25.85%;
+  top: 36.54%;
+  right: 37.62%;
+  bottom: 32.85%;
+  left: 36.53%;
+  font-size: var(--open-sans-13-sp-body-3-size);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: var(--font-roboto);
+  color: var(--white);
+  text-align: center;
+  display: inline-block;
+}
+.button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 957px;
+  left: 573px;
+  border-radius: var(--br-md);
+  width: 294px;
+  height: 49px;
+}
+.baby-got-rash4 {
+  position: absolute;
+  top: 0;
+  left: 53px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 396px;
+  height: 183px;
+}
+.group-icon4,
+.logo-div4 {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  width: 53px;
+  height: 39px;
+}
+.logo-div4 {
+  top: -28px;
+  left: 496px;
+  width: 449px;
+  height: 183px;
+  text-align: center;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-rhodium-libre);
+}
+.baby-acne-div {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--cards-2-main);
+  font-family: var(--dm-serif-display-20-sp-h5);
+}

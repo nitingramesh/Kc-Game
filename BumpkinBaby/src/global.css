@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rhodium+Libre:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-rhodium-libre: "Rhodium Libre";
+  --open-sans-13-sp-body-3: "Open Sans";
+  --font-comfortaa: Comfortaa;
+  --dm-serif-display-20-sp-h5: "DM Serif Display";
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-sm: 11px;
+  --open-sans-13-sp-body-3-size: 13px;
+  --font-size-lg: 15px;
+  --font-size-xl: 17px;
+  --dm-serif-display-20-sp-h5-size: 20px;
+  --font-size-3xl: 24px;
+  --font-size-4xl: 40px;
+  --font-size-5xl: 44px;
+  --font-size-6xl: 48px;
+
+  /* Colors */
+  --white: #fff;
+  --cards-2-main: #000;
+  --additional-text: #6e798c;
+  --body-text: #374a59;
+  --heading-text: #081f32;
+
+  /* border radiuses */
+  --br-sm: 16px;
+  --br-md: 24px;
+}
